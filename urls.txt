@@ -1,0 +1,4 @@
+http://195.10.10.46/cope/net1.mp3.m3u
+http://195.10.10.221/rtve/rne.mp3
+http://195.10.10.45/rtve/radio5.mp3.m3u
+http://195.10.10.45/rtve/radioexterior.mp3.m3u
