@@ -3,3 +3,4 @@ http://195.10.10.221/rtve/rne.mp3
 http://195.10.10.45/rtve/radio5.mp3.m3u
 http://195.10.10.45/rtve/radioexterior.mp3.m3u
 http://radiolive-mp3-rtve.flumotion.com/rtve/radioclasica.mp3.m3u
+http://hdstreamflash-lh.akamaihd.net/i/Radio_Euskadi_1@109208/master.m3u8

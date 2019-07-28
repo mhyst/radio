@@ -3,3 +3,4 @@ RNE
 RNE5
 RE
 Clásica
+Euskadi
